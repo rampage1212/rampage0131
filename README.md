@@ -1,7 +1,6 @@
-## Olá! Eu sou *Felipe Anacleto*, estou em busca de uma vaga de programação front-end.
 ## Estou estudando *HTML CSS e JAVASCRIPT*
 <div align="center">
-  <a href="https://github.com/FelipeAnacleto">
+  <a href="https://github.com/rampage0131">
   <img height="190em" width="52%" src="https://github-readme-stats.vercel.app/api?username=FelipeAnacleto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAnacleto&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
@@ -15,10 +14,3 @@
 </div>
 
 ##
-
-<div> 
-  <a href="https://instagram.com/andrefeliipe2020" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-anacleto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-![Snake animation](https://github.com/FelipeAnacleto/FelipeAnacleto/blob/output/github-contribution-grid-snake.svg)
-</div>
