@@ -1,6 +1,6 @@
 ## 
 <div align="center">
   <a href="https://github.com/rampage0131">
-  123123
+  Welcome to J.D.'s github!
 </div>
 
